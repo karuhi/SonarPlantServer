@@ -1,0 +1,12 @@
+{
+  "players": [
+    {
+      "name": "A",
+      "token": "AA"
+    },
+    {
+      "name": "B",
+      "token": "BB"
+    }
+  ]
+}

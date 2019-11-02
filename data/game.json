@@ -1,0 +1,44 @@
+{
+  "players": [
+    {
+      "name": "A高専",
+      "token": "AAA"
+    },
+    {
+      "name": "B高専",
+      "token": "BBB"
+    },
+    {
+      "name": "C高専",
+      "token": "CCC"
+    }
+  ],
+  "matches": [
+    {
+      "player1": {
+        "teamID": 1,
+        "token": "AAA"
+      },
+      "player2": {
+        "teamID": 2,
+        "token": "BBB"
+      },
+      "field": 0
+    },
+    {
+      "player1": {
+        "teamID": 3,
+        "token": "AAA"
+      },
+      "player2": {
+        "teamID": 4,
+        "token": "CCC"
+      },
+      "field": 1
+    }
+  ],
+  "fields": [
+    {},
+    {}
+  ]
+}

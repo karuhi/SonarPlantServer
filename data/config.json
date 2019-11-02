@@ -1,0 +1,5 @@
+{
+  "intervalMillis": 2000,
+  "turnMillis": 5000,
+  "turns": 30
+}
